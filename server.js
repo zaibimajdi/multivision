@@ -13,4 +13,4 @@ var port = config.port;
 app.listen(port);
 console.log('server is running on port ' + port + ' ...');
 
-console.log('test master 2');
+console.log('test hotfix');
